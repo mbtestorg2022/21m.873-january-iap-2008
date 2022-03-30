@@ -7,6 +7,7 @@ image_metadata:
   caption: Initial set mockup, with added painted details.
   credit: Image courtesy of Eric Levenson. Used with permission.
   image-alt: ''
+parent_uid: c46098ac-a951-5368-8847-957e3eb956db
 resourcetype: Image
 title: set3.jpg
 uid: b5dded84-3c81-bb2c-4a1b-f51ff2349713

@@ -7,6 +7,7 @@ image_metadata:
   caption: Traffic lights.
   credit: 'Credit: Image courtesy of Erika Bakse. Used with permission.'
   image-alt: Traffic lights on a dark, cloudy, day in the winter.
+parent_uid: 10a88f20-361d-048a-b251-3ac7c346aa0a
 resourcetype: Image
 title: light1.jpg
 uid: b692195a-2bb0-cf83-c5bf-b40e88c72fc2

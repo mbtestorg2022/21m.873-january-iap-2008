@@ -7,6 +7,7 @@ image_metadata:
   caption: Photo of the final set.
   credit: Image courtesy of Eric Levenson. Used with permission.
   image-alt: ''
+parent_uid: c46098ac-a951-5368-8847-957e3eb956db
 resourcetype: Image
 title: set4.jpg
 uid: 27fbb569-82e8-5085-2562-3fba6112101a

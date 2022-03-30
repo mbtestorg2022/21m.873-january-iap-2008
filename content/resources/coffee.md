@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Erika Bakse. Used with permission.'
   image-alt: A parking lot with a circular coffee shop, a truck at the drive-thru
     window
+parent_uid: 10a88f20-361d-048a-b251-3ac7c346aa0a
 resourcetype: Image
 title: A suburban drive-through coffeeshop.
 uid: ff23012d-0f0b-0704-5a96-21c13a188536

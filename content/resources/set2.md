@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: Image courtesy of Eric Levenson. Used with permission.
   image-alt: ''
+parent_uid: c46098ac-a951-5368-8847-957e3eb956db
 resourcetype: Image
 title: set2.jpg
 uid: 62c2db5f-5c10-a35f-2d74-9ed9faec435c

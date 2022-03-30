@@ -7,6 +7,7 @@ image_metadata:
   caption: Past the store, upstage is dimly lit for night scenes.
   credit: Image courtesy of Eric Levenson. Used with permission.
   image-alt: ''
+parent_uid: c46098ac-a951-5368-8847-957e3eb956db
 resourcetype: Image
 title: set8.jpg
 uid: 3824e283-6c96-e06c-6365-8a1a1c07e49c

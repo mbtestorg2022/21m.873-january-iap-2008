@@ -7,6 +7,7 @@ image_metadata:
   caption: Zoom-in of the convenience store front.
   credit: Image courtesy of Eric Levenson. Used with permission.
   image-alt: ''
+parent_uid: c46098ac-a951-5368-8847-957e3eb956db
 resourcetype: Image
 title: set7.jpg
 uid: 8ce04ecf-da42-38df-2d34-0a517939a13d

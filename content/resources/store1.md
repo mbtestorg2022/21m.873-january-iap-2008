@@ -9,6 +9,7 @@ image_metadata:
   image-alt: An facade of an urban convenience store called The Super Store. On the
     sign, Lucky and Olympia, with a few letters that do not form words, followed by
     $12.99
+parent_uid: 10a88f20-361d-048a-b251-3ac7c346aa0a
 resourcetype: Image
 title: store1.jpg
 uid: aca4dabc-ad2b-d5b0-2a10-c41775492ec9

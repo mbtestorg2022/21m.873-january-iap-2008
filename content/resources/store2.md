@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Erika Bakse. Used with permission.'
   image-alt: A close up of the front of an urban convenience store. Signs for beer,
     an ATM, coffee, and lottery cover the windows and door.
+parent_uid: 10a88f20-361d-048a-b251-3ac7c346aa0a
 resourcetype: Image
 title: store2.jpg
 uid: 82eff387-62b7-ed78-e3e7-17abda362908
